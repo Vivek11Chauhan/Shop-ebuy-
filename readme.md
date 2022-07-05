@@ -1,4 +1,5 @@
-# ShopIT E-commerce Project
+# Shop-EBuy E-commerce Project
+https://vibrant-swartz-269914.netlify.app/
 
 > Complete E-commerce site built with Node.js, React, Redux, Express, MongoDB
 
